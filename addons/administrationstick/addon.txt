@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"		"Administration Stick”
+	"version"	“1.0”
+	"up_date"	"2016"
+	"author_name"	"Crap-Head"
+	"author_email"	"None"
+	"author_url"	"None"
+	"info"		"None"
+}

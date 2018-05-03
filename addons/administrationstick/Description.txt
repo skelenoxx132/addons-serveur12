@@ -1,0 +1,65 @@
+﻿##Description##
+This weapon makes the lives of your moderators a lot easier.  
+It takes a large portion of useful moderator tools and puts them into a simple menu, which is easily accessible from the menu.   
+
+##Tools##
+[ALL] - These tools work for every gamemode!  
+[DARKRP] - These tools only work for the DarkRP gamemode!  
+[DARKRP - Fire Special] - These tools only work with my [DarkRP Fire System](https://scriptfodder.com/scripts/view/302/darkrp-fire-system)!  
+[TTT] - These tools only work for the TTT gamemode!  
+
+[ALL] Exit Vehicle - Kick the driver out of their current vehicle.  
+[ALL] Bring - Aim at a player to bring them in front of you.  
+[ALL] Player Info - Gives you a lot of information about the target.  
+[ALL] Extinguish (Prop) - Aim at a burning entity to extinguish it.  
+[ALL] Force MOTD - Force a player to read the message of the day.  
+[ALL] Freeze/Unfreeze - Target a player to change his freeze state.  
+[ALL] Heal Player - Aim at a player to heal them. Aim at the world to heal yourself.  
+[ALL] God Mode - Aim at a player to god/ungod them. Aim at the world to god/ungod yourself.  
+[ALL] Invisiblity - Left click to go invisible. Left click again to become visible again.  
+[ALL] Kick Player - Aim at a player to kick him.  
+[ALL] Remover - Aim at any object to remove it.  
+[ALL] Kill Player - Aim at a player to kill him.  
+[ALL] Teleport - Teleports you to a targeted location.  
+[ALL] Unfreeze (Prop) - Aim at an entity to unfreeze it.  
+[ALL] Warn Player - Aim at a player to warn him.  
+[ALL] Burn - Aim at an entity to set it on fire.  
+[ALL] Slap Player - Aim at a player to slap him.  
+[ALL] Explode - Aim at an entity to explode it.  
+
+[DARKRP] Lock Door - Aim at a door to lock it.  
+[DARKRP] Unlock Door - Aim at a door to unlock it.  
+[DARKRP] Demote Player - Sets the players job to citizen.  
+[DARKRP] Player Info - Gives you a lot of information about the target.  
+[DARKRP] Respawn Player - Use on a player to respawn them.  
+[DARKRP] Arrest Player - Use on a player to arrest them.  
+[DARKRP] Unarrest Player - Use on a player to arrest them.  
+[DARKRP] Abort Hit - Use on a player to abort any hit on them.  
+[DARKRP - Fire Special] Extinguish (Local) - Extinguishes the fires near where you aim.  
+[DARKRP - Fire Special] Extinguish Fires (All) - Extinguishes all fires on the map.  
+[DARKRP - Fire Special] Create Fire - Spawns a fire at your target.  
+
+[TTT] Give Credit - Give your target 1 credit.  
+[TTT] Reset Karma - Resets your targets karma to 1000.  
+
+##Installation##
+Simply drag and drop the "administrationstick" folder into your addons.  
+Administrators are automatically given the admin stick.  
+The name of the administration stick weapon is "admin_stick".  
+Administrators can also give themselves the administration stick if they somehow loose it. The command is "give_adminstick".  
+
+If you want to use ULX admin mod with this script, you need to configurate the ULX ranks who recieves the admin stick.  
+You can do this inside adminstick_config.lua.  
+
+##Adding Tools##
+You can add your own tools inside the admin_stick/shared.lua. They are ordered the way they are added in the file.  
+This obviously requires lua knowledge to do so, and I advise that you don't modify that file if you don't know what you are doing!  
+
+##Errors & Support##
+If you find any problems with the script, please create a support ticket through the site! It is important that you include a description of the problem and all errors.  
+Additionally, I rarely give additional support for my scripts. If there is a general error with the script, that is fine, refer to the text above.  
+I am also not interested in modifying you a custom version of the addon. Also not upon payment. Sorry!  
+
+Conflicting addons is not to be said if I will support that or not. This is something I will decide upon confrontation about a conflicting addon. If you have some sort of proof that an addon is conflicting with my addon, please create a ticket with the details you might have.  
+
+Thank you!
